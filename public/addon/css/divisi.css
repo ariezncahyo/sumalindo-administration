@@ -1,0 +1,76 @@
+ <style>
+	.jimgMenu {
+	position: relative;
+	width: 800px;
+	height: 320px;
+	overflow: hidden;
+	margin: 35px 138px 0px;
+	}
+	
+	.jimgMenu ul {
+		list-style: none;
+		margin:10px 250px 10px;
+		position:inherit;
+		display: block;
+		height: 250px;
+		width: 1340px;
+		
+		
+		}
+	
+	.jimgMenu ul li {
+		float: left;
+	}
+	
+	.jimgMenu ul li a {
+		text-indent: -1000px;
+		background:#FFFFFF none repeat scroll 0%;
+		border-right: 2px solid #fff;
+		cursor:pointer;
+		display:block;
+		overflow:hidden;
+		width:60px;
+		height: 200px;
+	}
+	
+	.jimgMenu ul li.audit a {
+		background: url(../images/Audit.jpg) repeat scroll 0%;
+	}
+	
+	.jimgMenu ul li.corsek a {
+		background: url( ../images/Corsek.jpg) repeat scroll 0%;
+	}
+	
+	.jimgMenu ul li.fa a {
+		background: url(../images/F.A.jpg) repeat scroll 0%;
+	}
+	.jimgMenu ul li.hrds a {
+		background: url(../images/HRDS.jpg) repeat scroll 0%;
+	}
+	
+	.jimgMenu ul li.it a {
+		background: url(../images/I.T.jpg) repeat scroll 0%;
+		
+		
+	}
+	.jimgMenu ul li.kp a {
+		background: url(../images/K.P.jpg) repeat scroll 0%;
+	}
+	
+	.jimgMenu ul li.logging a {
+		background: url(../images/Logging.jpg) repeat scroll 0%;
+	}
+	
+	.jimgMenu ul li.marketing a {
+		background: url(../images/Marketing.jpg) repeat scroll 0%;
+	}
+	.jimgMenu ul li.playmill a {
+		background: url(../images/Plymill.jpg) repeat scroll 0%;
+	}
+	
+	.jimgMenu ul li.procurement a {
+		background: url(../images/Procurement.jpg) repeat scroll 0%;
+	min-width:310px;
+		
+	}
+	</style>

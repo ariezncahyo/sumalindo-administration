@@ -1,0 +1,78 @@
+*{
+	padding:0; margin:0;
+}
+
+h2{
+	font-family: 'Righteous', cursive;
+}
+p{
+	font-family: 'Voltaire', sans-serif;
+	color: #DDDDDD;
+	margin-right: 200px;
+}
+small{
+	color: #b69877;
+}
+small a, 
+p a{
+	color: #ddd;
+	text-decoration: none;
+}
+
+/* Header */
+header{
+	background: #333333;
+	padding: 10px 20px;
+	margin-bottom: 0;
+	position: relative;
+	z-index: 10;
+	overflow: hidden;
+}
+header a{
+	color: #dddddd;
+	text-decoration: none;
+}
+header img{
+	float: left;
+}
+header h1{
+	margin-top:20px;
+	margin-left:80px;
+	font-family: 'Righteous', cursive;
+}
+
+/* Content */
+
+.page{
+
+}
+.one{
+	background-color: #4e8b61;
+}
+
+#kiri { height:100px; padding:10px;background-color:#CCCCCC;width:30%; margin-top:10px; } 
+#kanan { height:100px; padding:10px;background-color:#CCCCCC;width:30%; margin-top:10px; }     
+#tengah { height:100px; padding:10px;background-color:#CCCCCC;width:40%; margin-top:10px; }
+
+
+
+#itsuport :hover
+			{ 
+			padding-left:100px;
+			}
+.two{
+	background-color: #222222;
+	color:#F2F2F2;
+	
+	
+}
+
+#kiri { height:100px; padding:10px;background-color:#CCCCCC;width:30%; margin-top:10px; } 
+#kanan { height:100px; padding:10px;background-color:#CCCCCC;width:30%; margin-top:10px; }     
+#tengah { height:100px; padding:10px;background-color:#CCCCCC;width:40%; margin-top:10px; }
+
+
+.three{
+	background-color: #013d3d;
+}
+	
